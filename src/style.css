@@ -1,5 +1,20 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+
+.card {
+    border-radius: 20px;
+}
+
+.izquierda{
+    font-size: 90px;
+}
+
+.derecha{
+    transform: rotate(180deg);
+    font-size: 90px;
+}
+
+.centro {
+    height: 300px;
+    font-size: 100px;
 }
